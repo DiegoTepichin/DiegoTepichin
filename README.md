@@ -27,7 +27,7 @@ flowchart LR
 
 | Project | What it does | Stack |
 |---|---|---|
-| [calculadoras-mx](https://github.com/DiegoTepichin/calculadoras-mx) | Fully static calculators for Mexican tax & labor law (ISR, aguinaldo, finiquito, UMA) | Next.js · TypeScript |
+| [calculadoras-mx](https://github.com/DiegoTepichin/calculadoras-mx) | Open-source tax & labor calculators for Mexico & Colombia (ISR, payroll, IMSS, severance), with officially sourced data | Next.js · TypeScript |
 | [sys-monitor](https://github.com/DiegoTepichin/sys-monitor) | Lightweight host monitoring: agent → authenticated API → live dashboard, one container | Python · Flask · React · Docker |
 | [cicd-pipeline](https://github.com/DiegoTepichin/cicd-pipeline) | Reference delivery pipeline with lint, typing, SAST, coverage gate, image scanning and registry publishing | GitHub Actions · Docker · Trivy |
 
