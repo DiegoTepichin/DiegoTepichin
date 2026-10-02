@@ -2,7 +2,7 @@
   <title id="t">Diego Tepichin — systems engineer: pricing, machine learning, tools for LATAM</title>
   <rect width="1280" height="320" fill="#0d1117"/>
   <text x="80" y="168" fill="#e6edf3" font-family="ui-serif, Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-1">Diego Tepichin</text>
-  <text x="82" y="214" fill="#e6edf3" fill-opacity="0.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">systems engineer — pricing · machine learning · tools for latam</text>
+  <text x="82" y="214" fill="#e6edf3" fill-opacity="0.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">systems engineer — pricing · machine learning · tools for latam</text>
   <g fill="none" stroke="#e6edf3" stroke-opacity="0.25" stroke-width="1">
     <path d="M900 50 V270 H1200"/>
   </g>
