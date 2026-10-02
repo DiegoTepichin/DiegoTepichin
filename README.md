@@ -1,28 +1,50 @@
-# Hi, I'm Diego 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Diego Tepichin — systems engineer: pricing, machine learning, tools for LATAM" src="assets/banner-light.svg" width="100%">
+</picture>
 
-Systems engineer from Mexico. I build data-driven software at the intersection of pricing, machine learning, and practical tools for Latin America.
+I build data-driven software where pricing, machine learning and real-world operations meet — currently focused on causal methods for dynamic pricing, and on open tools for Mexico and Latin America.
 
-### 🔭 Currently building
-**CAFE — Causal Adaptive Fusion Engine.** A dynamic pricing engine that uses causal inference to recommend prices based on real demand response, not guesswork. → [Learn more](https://cafe-pricing.netlify.app)
+**Open to:** remote backend / ML engineering roles · **Based in:** Mexico (UTC−6) · **Languages:** Spanish, English
 
-### 🛠 Stack
-Python · Pandas · scikit-learn · Flask · React · TypeScript · Next.js · Docker · GitHub Actions
+---
 
-### 🌎 Focus
-- Machine learning & causal inference applied to business decisions
-- Open-source tools for the Mexican / LATAM ecosystem
-- Clean infrastructure: CI/CD, containers, reproducible builds
+### CAFE — Causal Adaptive Fusion Engine
 
-### 📫 Contact
+A dynamic pricing engine that estimates how demand actually responds to price — using causal inference instead of correlation — and turns that into price recommendations that adapt over time. → [cafe-pricing.netlify.app](https://cafe-pricing.netlify.app)
+
+```mermaid
+flowchart LR
+    A[Transactions] --> B[Causal demand model]
+    B --> C[Price elasticity]
+    C --> D[Price recommendation]
+    D --> E[Market response]
+    E -.feedback.-> B
+```
+
+### Selected work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [calculadoras-mx](https://github.com/DiegoTepichin/calculadoras-mx) | Fully static calculators for Mexican tax & labor law (ISR, aguinaldo, finiquito, UMA) | Next.js · TypeScript |
+| [sys-monitor](https://github.com/DiegoTepichin/sys-monitor) | Lightweight host monitoring: agent → authenticated API → live dashboard, one container | Python · Flask · React · Docker |
+| [cicd-pipeline](https://github.com/DiegoTepichin/cicd-pipeline) | Reference delivery pipeline with lint, typing, SAST, coverage gate, image scanning and registry publishing | GitHub Actions · Docker · Trivy |
+
+### Toolbox
+
+`Python` `pandas` `scikit-learn` `Flask` `React` `TypeScript` `Next.js` `Docker` `GitHub Actions`
+
+---
+
 [LinkedIn](https://www.linkedin.com/in/diego-duron-tepichin) · [durontepichindiego@gmail.com](mailto:durontepichindiego@gmail.com)
 
 <details>
-<summary>🇲🇽 Versión en español</summary>
+<summary>Versión en español</summary>
 
-Ingeniero en sistemas de México. Desarrollo software basado en datos en la intersección de pricing, machine learning y herramientas prácticas para Latinoamérica.
+Desarrollo software basado en datos donde se cruzan el pricing, el machine learning y la operación real de negocios. Hoy me enfoco en métodos causales para precios dinámicos y en herramientas abiertas para México y Latinoamérica.
 
-**Actualmente construyendo:** CAFE — Causal Adaptive Fusion Engine, un motor de precios dinámicos que usa inferencia causal para recomendar precios según la respuesta real de la demanda, no por intuición. → [Conoce más](https://cafe-pricing.netlify.app)
+**Abierto a:** roles remotos de backend / ML · **Ubicación:** México (UTC−6)
 
-**Enfoque:** machine learning e inferencia causal aplicados a decisiones de negocio · herramientas open source para el ecosistema mexicano / LATAM · infraestructura limpia (CI/CD, contenedores, builds reproducibles).
-
+**CAFE** estima cómo responde realmente la demanda al precio, usando inferencia causal en lugar de correlación, y lo convierte en recomendaciones de precio que se adaptan con el tiempo.
 </details>
