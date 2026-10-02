@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t">
+  <title id="t">Diego Tepichin — systems engineer: pricing, machine learning, tools for LATAM</title>
+  <rect width="1280" height="320" fill="#ffffff"/>
+  <text x="80" y="168" fill="#1f2328" font-family="ui-serif, Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-1">Diego Tepichin</text>
+  <text x="82" y="214" fill="#1f2328" fill-opacity="0.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">systems engineer — pricing · machine learning · tools for latam</text>
+  <g fill="none" stroke="#1f2328" stroke-opacity="0.25" stroke-width="1">
+    <path d="M900 50 V270 H1200"/>
+  </g>
+  <g fill="none" stroke="#c8893b" stroke-width="1" stroke-opacity="0.6" stroke-dasharray="3 5">
+    <path d="M1028.75 199.4 V270"/>
+    <path d="M1028.75 199.4 H900"/>
+  </g>
+  <path d="M925 70 C980 190, 1060 235, 1185 250" fill="none" stroke="#c8893b" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="1028.75" cy="199.4" r="5" fill="#c8893b"/>
+</svg>
