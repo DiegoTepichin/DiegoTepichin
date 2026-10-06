@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" role="img" aria-labelledby="t d">
+  <title id="t">sys-monitor</title>
+  <desc id="d">Lightweight host monitoring: agent, authenticated API, live dashboard. Stack: Python · Flask · React · Docker.</desc>
+  <rect x="0.5" y="0.5" width="399" height="199" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <g transform="translate(26 24)" fill="none" stroke="#c8893b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 4 V44 H46" stroke-opacity="0.45"/>
+      <path d="M10 30 H17 L22 14 L29 38 L34 24 L37 30 H42"/>
+      <circle cx="42" cy="30" r="2.5" fill="#c8893b" stroke="none"/>
+  </g>
+  <path d="M362 38 L374 26 M365 26 H374 V35" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="26" y="116" fill="#e6edf3" font-family="ui-serif, Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="-0.5">sys-monitor</text>
+  <text x="26" y="144" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Host monitoring: agent, API, dashboard</text>
+  <path d="M26 160 H374" stroke="#30363d" stroke-width="1"/>
+  <text x="26" y="181" fill="#c8893b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Python · Flask · React · Docker</text>
+</svg>

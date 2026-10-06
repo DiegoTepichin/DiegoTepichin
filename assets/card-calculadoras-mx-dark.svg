@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" role="img" aria-labelledby="t d">
+  <title id="t">calculadoras-mx</title>
+  <desc id="d">Open-source tax and labor calculators for Mexico and Colombia. Stack: Next.js · TypeScript.</desc>
+  <rect x="0.5" y="0.5" width="399" height="199" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <g transform="translate(26 24)" fill="none" stroke="#c8893b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="8" y="3" width="32" height="42" rx="4"/>
+      <rect x="14" y="9" width="20" height="9" rx="1.5"/>
+      <path d="M15 26 h2 M23 26 h2 M31 26 h2 M15 32 h2 M23 32 h2 M31 32 h2 M15 38 h2 M23 38 h10"/>
+  </g>
+  <path d="M362 38 L374 26 M365 26 H374 V35" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="26" y="116" fill="#e6edf3" font-family="ui-serif, Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="-0.5">calculadoras-mx</text>
+  <text x="26" y="144" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Tax &amp; labor calculators, MX &amp; CO</text>
+  <path d="M26 160 H374" stroke="#30363d" stroke-width="1"/>
+  <text x="26" y="181" fill="#c8893b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Next.js · TypeScript</text>
+</svg>
