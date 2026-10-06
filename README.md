@@ -46,10 +46,10 @@ Available for licensing and acquisition → cafe.licensing@proton.me · [cafe-pr
       <source media="(prefers-color-scheme: light)" srcset="assets/card-calculadoras-mx-light.svg">
       <img alt="calculadoras-mx — open-source tax and labor calculators for Mexico and Colombia (ISR, payroll, IMSS, severance), with officially sourced data. Next.js, TypeScript" src="assets/card-calculadoras-mx-light.svg" width="270">
     </picture></a>
-  <a href="https://github.com/DiegoTepichin/sys-monitor"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-sys-monitor-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-sys-monitor-light.svg">
-      <img alt="sys-monitor — lightweight host monitoring: agent, authenticated API, live dashboard, one container. Python, Flask, React, Docker" src="assets/card-sys-monitor-light.svg" width="270">
+  <a href="https://github.com/DiegoTepichin/mcp-mexico"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-mcp-mexico-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-mcp-mexico-light.svg">
+      <img alt="mcp-mexico — MCP server that gives AI agents official Mexican public data: Banxico exchange and interest rates, INEGI inflation, UMA and ISR tables. Python, MCP" src="assets/card-mcp-mexico-light.svg" width="270">
     </picture></a>
   <a href="https://github.com/DiegoTepichin/cicd-pipeline"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-cicd-pipeline-dark.svg">
