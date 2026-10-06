@@ -1,15 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t">
   <title id="t">Diego Tepichin — systems engineer: pricing, machine learning, tools for LATAM</title>
+  <style>
+    .curve { stroke-dasharray: 1 1.1; animation: draw 1.5s ease-in-out both; }
+    .optimum { animation: appear 0.6s ease-out 1.5s both; }
+    @keyframes draw { from { stroke-dashoffset: 1.02; } to { stroke-dashoffset: 0; } }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .curve, .optimum { animation: none; } }
+  </style>
   <rect width="1280" height="320" fill="#0d1117"/>
   <text x="80" y="168" fill="#e6edf3" font-family="ui-serif, Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-1">Diego Tepichin</text>
   <text x="82" y="214" fill="#e6edf3" fill-opacity="0.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">systems engineer — pricing · machine learning · tools for latam</text>
   <g fill="none" stroke="#e6edf3" stroke-opacity="0.25" stroke-width="1">
     <path d="M900 50 V270 H1200"/>
   </g>
-  <g fill="none" stroke="#c8893b" stroke-width="1" stroke-opacity="0.6" stroke-dasharray="3 5">
-    <path d="M1028.75 199.4 V270"/>
-    <path d="M1028.75 199.4 H900"/>
+  <path class="curve" pathLength="1" d="M925 70 C980 190, 1060 235, 1185 250" fill="none" stroke="#c8893b" stroke-width="2" stroke-linecap="round"/>
+  <g class="optimum">
+    <g fill="none" stroke="#c8893b" stroke-width="1" stroke-opacity="0.6" stroke-dasharray="3 5">
+      <path d="M1028.75 199.4 V270"/>
+      <path d="M1028.75 199.4 H900"/>
+    </g>
+    <circle cx="1028.75" cy="199.4" r="5" fill="#c8893b"/>
   </g>
-  <path d="M925 70 C980 190, 1060 235, 1185 250" fill="none" stroke="#c8893b" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="1028.75" cy="199.4" r="5" fill="#c8893b"/>
 </svg>
