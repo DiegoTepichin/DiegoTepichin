@@ -41,27 +41,21 @@ Available for licensing and acquisition → cafe.licensing@proton.me · [cafe-pr
 ### Selected work
 
 <p align="center">
-  <a href="https://github.com/DiegoTepichin/calculadoras-mx">
-    <picture>
+  <a href="https://github.com/DiegoTepichin/calculadoras-mx"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-calculadoras-mx-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-calculadoras-mx-light.svg">
       <img alt="calculadoras-mx — open-source tax and labor calculators for Mexico and Colombia (ISR, payroll, IMSS, severance), with officially sourced data. Next.js, TypeScript" src="assets/card-calculadoras-mx-light.svg" width="270">
-    </picture>
-  </a>
-  <a href="https://github.com/DiegoTepichin/sys-monitor">
-    <picture>
+    </picture></a>
+  <a href="https://github.com/DiegoTepichin/sys-monitor"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-sys-monitor-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-sys-monitor-light.svg">
       <img alt="sys-monitor — lightweight host monitoring: agent, authenticated API, live dashboard, one container. Python, Flask, React, Docker" src="assets/card-sys-monitor-light.svg" width="270">
-    </picture>
-  </a>
-  <a href="https://github.com/DiegoTepichin/cicd-pipeline">
-    <picture>
+    </picture></a>
+  <a href="https://github.com/DiegoTepichin/cicd-pipeline"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-cicd-pipeline-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-cicd-pipeline-light.svg">
       <img alt="cicd-pipeline — reference delivery pipeline with lint, typing, SAST, coverage gate, image scanning and registry publishing. GitHub Actions, Docker, Trivy" src="assets/card-cicd-pipeline-light.svg" width="270">
-    </picture>
-  </a>
+    </picture></a>
 </p>
 
 ### Toolbox
