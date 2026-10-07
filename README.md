@@ -30,7 +30,7 @@ A dynamic pricing engine that estimates how demand actually responds to price �
 
 **v4.3.0** · Python · NumPy · SciPy · pandas · XGBoost · LightGBM · FastAPI
 
-Available for licensing and acquisition → cafe.licensing@proton.me · [cafe-pricing.netlify.app](https://cafe-pricing.netlify.app)
+Available for licensing and acquisition → cafe.licensing@proton.me · [cafe-pricing.com](https://cafe-pricing.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
@@ -79,5 +79,5 @@ Desarrollo software basado en datos donde se cruzan el pricing, el machine learn
 
 **CAFE** estima cómo responde realmente la demanda al precio, usando inferencia causal en lugar de correlación, y lo convierte en recomendaciones de precio que se adaptan con el tiempo.
 
-CAFE está disponible para licenciamiento y adquisición → cafe.licensing@proton.me · [cafe-pricing.netlify.app](https://cafe-pricing.netlify.app)
+CAFE está disponible para licenciamiento y adquisición → cafe.licensing@proton.me · [cafe-pricing.com](https://cafe-pricing.com)
 </details>
