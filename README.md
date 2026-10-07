@@ -68,7 +68,7 @@ Available for licensing and acquisition → cafe.licensing@proton.me · [cafe-pr
   <img alt="" src="assets/divider-light.svg" width="100%">
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/diego-duron-tepichin) · [durontepichindiego@gmail.com](mailto:durontepichindiego@gmail.com)
+[diegotepichin.vercel.app](https://diegotepichin.vercel.app) · [LinkedIn](https://www.linkedin.com/in/diego-duron-tepichin) · [durontepichindiego@gmail.com](mailto:durontepichindiego@gmail.com)
 
 <details>
 <summary>Versión en español</summary>
@@ -80,4 +80,6 @@ Desarrollo software basado en datos donde se cruzan el pricing, el machine learn
 **CAFE** estima cómo responde realmente la demanda al precio, usando inferencia causal en lugar de correlación, y lo convierte en recomendaciones de precio que se adaptan con el tiempo.
 
 CAFE está disponible para licenciamiento y adquisición → cafe.licensing@proton.me · [cafe-pricing.com](https://cafe-pricing.com)
+
+**Portafolio:** [diegotepichin.vercel.app](https://diegotepichin.vercel.app)
 </details>
